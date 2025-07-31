@@ -5,10 +5,10 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h3>🎓 I'm a Grade 12 Student from Sri Lanka  </h3>
-<h3>💻 I love learning Python, Git, and Machine Learning</h3>  
-<h3>📊 Currently exploring Data Science and GitHub </h3> 
-<h3>📷 Photographer | 👨‍💻 Python Developer</h3>
+<h4>🎓 I'm a Grade 12 Student from Sri Lanka  </h4>
+<h4>💻 I love learning Python, Git, and Machine Learning</h4>  
+<h4>📊 Currently exploring Data Science and GitHub </h4> 
+<h4>📷 Photographer | 👨‍💻 Python Developer</h4>
 
 ---
 
