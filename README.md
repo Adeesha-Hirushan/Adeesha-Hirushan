@@ -1,4 +1,4 @@
-👋 Hi there, I'm Adeesha Hirushan
+<h1 align="center">Hi 👋, I'm Adeesha Hirushan</h1>
 
 
 <div align="center">
@@ -8,7 +8,7 @@
 🎓 I'm a Grade 12 Student from Sri Lanka  
 💻 I love learning Python, Git, and Machine Learning  
 📊 Currently exploring Data Science and GitHub  
-📷 Photographer | 🎬 Content Creator | 👨‍💻 Python Developer
+📷 Photographer | 👨‍💻 Python Developer
 
 ---
 
