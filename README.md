@@ -16,7 +16,7 @@
 <h3>- Python 🐍</h3>
 <h3>- Git & GitHub 🌿</h3>
 <h3>- HTML, CSS  🌐</h3>
-<h3>- VS Code, Potoshop🧠</h3>
+<h3>- VS Code, Potoshop, Canva🧠</h3>
 
 
 
